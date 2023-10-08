@@ -16,11 +16,11 @@ This project implements a cutting-edge IoT-enabled door lock system. A user-frie
 <p align="center">Project Status</p>
 
 <p align = "center">
-  <img alt="stars" src="https://img.shields.io/github/stars/Harsh-Vipin/cosmoscribe?color=eb4d4b&style=for-the-badge" />
-  <img alt="forks" src="https://img.shields.io/github/forks/Harsh-Vipin/cosmoscribe?color=7ed6df&style=for-the-badge" />
-  <img alt="issuses" src="https://img.shields.io/github/issues/Harsh-Vipin/cosmoscribe?color=f9ca24&style=for-the-badge" />
-  <img alt="prs" src="https://img.shields.io/github/issues-pr-closed/Harsh-Vipin/cosmoscribe?color=686de0&style=for-the-badge" />
-  <img alt="prs" src="https://img.shields.io/github/issues-closed-raw/Harsh-Vipin/cosmoscribe?color=686de0&style=for-the-badge" />
+  <img alt="stars" src="https://img.shields.io/github/stars/ansharkp/CloudGuard?color=eb4d4b&style=for-the-badge" />
+  <img alt="forks" src="https://img.shields.io/github/forks/ansharkp/CloudGuard?color=7ed6df&style=for-the-badge" />
+  <img alt="issuses" src="https://img.shields.io/github/issues/ansharkp/CloudGuard?color=f9ca24&style=for-the-badge" />
+  <img alt="prs" src="https://img.shields.io/github/issues-pr-closed/ansharkp/CloudGuard?color=686de0&style=for-the-badge" />
+  <img alt="prs" src="https://img.shields.io/github/issues-closed-raw/ansharkp/CloudGuard?color=686de0&style=for-the-badge" />
 </p>
 
 
